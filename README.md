@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=4500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1600&lines=PANDA+𝐌𝐮𝐬𝐢𝐜+𝐑𝐞𝐩𝐨+—+𝐋𝐢𝐠𝐡𝐭𝐭𝐧𝐢𝐧𝐠+𝐅𝐚𝐬𝐭+𝐌𝐮𝐬𝐢𝐜+𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠+—+𝐍𝐨𝐰+𝐑𝐮𝐧𝐧𝐢𝐧𝐠+𝐨𝐧+𝐀𝐏𝐈!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=4500&pause=1000&color=00D9FF&center=true&vCenter=true&width=1600&lines=𝐌𝐘𝐀𝐍𝐌𝐀𝐑𝐌𝐔𝐒𝐈𝐂+𝐌𝐮𝐬𝐢𝐜+𝐑𝐞𝐩𝐨+—+𝐋𝐢𝐠𝐡𝐭𝐭𝐧𝐢𝐧𝐠+𝐅𝐚𝐬𝐭+𝐌𝐮𝐬𝐢𝐜+𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠+—+𝐍𝐨𝐰+𝐑𝐮𝐧𝐧𝐢𝐧𝐠+𝐨𝐧+𝐀𝐏𝐈!">
 </div>
 
 ---
@@ -18,9 +18,9 @@
 [![Support Group](https://img.shields.io/badge/Support%20Group-black?style=for-the-badge&logo=telegram)](https://t.me/myanmar_music_Bot2027)
 [![Owner](https://img.shields.io/badge/Owner-black?style=for-the-badge&logo=telegram)](https://t.me/HANTHAR_1999)
 
-[![Forks](https://img.shields.io/github/forks/khithlainhtet/thawzinmusicbot2026?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/khithlainhtet/thawzinmusicbot2026/fork)
-[![Stars](https://img.shields.io/github/stars/khithlainhtet/thawzinmusicbot2026?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/khithlainhtet/thawzinmusicbot2026/stargazers)
-[![Contributors](https://img.shields.io/github/contributors/NoxxOP/ShrutiMusic?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/khithlainhtet/thawzinmusicbot2026/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/khithlainhtet/MYANMARMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/khithlainhtet/MYANMARMUSIC/fork)
+[![Stars](https://img.shields.io/github/stars/khithlainhtet/MYANMARMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/khithlainhtet/MYANMARMUSIC/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/khithlainhtet/MYANMARMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge)](https://github.com/khithlainhtet/MYANMARMUSIC/graphs/contributors)
 
 </div>
 
@@ -32,9 +32,9 @@
 
 | **𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦** | **𝐃𝐞𝐩𝐥𝐨𝐲 𝐍𝐨𝐰** | **𝐈𝐧𝐟𝐨** |
 |:---:|:---:|:---:|
-| **𝐇𝐞𝐫𝐨𝐤𝐮** | [![Deploy](https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/khithlainhtet/thawzinmusicbot2026) | 𝐎𝐧𝐞-𝐂𝐥𝐢𝐜𝐤 𝐃𝐞𝐩𝐥𝐨𝐲 |
-| **𝐑𝐞𝐧𝐝𝐞𝐫** | [![Deploy](https://img.shields.io/badge/Deploy%20On%20Render-black?style=for-the-badge&logo=render)](https://render.com/deploy?repo=https://github.com/khithlainhtet/thawzinmusicbot2026) | 𝟏𝟎𝟎% 𝐅𝐫𝐞𝐞 |
-| **𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭** | [![View](https://img.shields.io/badge/Simple%20Bot-black?style=for-the-badge&logo=github)](https://github.com/khithlainhtet/thawzinmusicbot2026) | 𝐋𝐢𝐠𝐡𝐭𝐰𝐞𝐢𝐠𝐡𝐭 |
+| **𝐇𝐞𝐫𝐨𝐤𝐮** | [![Deploy](https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/khithlainhtet/MYANMARMUSIC) | 𝐎𝐧𝐞-𝐂𝐥𝐢𝐜𝐤 𝐃𝐞𝐩𝐥𝐨𝐲 |
+| **𝐑𝐞𝐧𝐝𝐞𝐫** | [![Deploy](https://img.shields.io/badge/Deploy%20On%20Render-black?style=for-the-badge&logo=render)](https://render.com/deploy?repo=https://github.com/khithlainhtet/MYANMARMUSIC) | 𝟏𝟎𝟎% 𝐅𝐫𝐞𝐞 |
+| **𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐨𝐭** | [![View](https://img.shields.io/badge/Simple%20Bot-black?style=for-the-badge&logo=github)](https://github.com/khithlainhtet/MYANMARMUSIC) | 𝐋𝐢𝐠𝐡𝐭𝐰𝐞𝐢𝐠𝐡𝐭 |
 
 </div>
 
@@ -111,11 +111,11 @@ sudo apt-get install -y nodejs
 ### **𝐒𝐭𝐞𝐩 𝟒: 𝐂𝐥𝐨𝐧𝐞 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲**
 
 ```bash
-git clone https://github.com/khithlainhtet/thawzinmusicbot2026
+git clone https://github.com/khithlainhtet/MYANMARMUSIC
 ```
 
 ```bash
-cd thawzinmusicbot2026
+cd MYANMARMUSIC
 ```
 
 ---
@@ -195,7 +195,7 @@ nano .env
 
 **𝐌𝐞𝐭𝐡𝐨𝐝 𝟏:**
 ```bash
-python3 -m thawzinmusicbot2026
+python3 -m MYANMARMUSIC
 ```
 
 **𝐌𝐞𝐭𝐡𝐨𝐝 𝟐:**
@@ -216,7 +216,7 @@ bash start
 
 <div align="center">
 
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/khithlainhtet/thawzinmusicbot2026)
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](https://dashboard.heroku.com/new?template=https://github.com/khithlainhtet/MYANMARMUSIC)
 
 </div>
 
@@ -279,10 +279,10 @@ bash start
 
 <div align="center">
 
-![Repo Size](https://img.shields.io/github/repo-size/khithlainhtet/thawzinmusicbot2026?color=black&logo=github&logoColor=black&style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/khithlainhtet/thawzinmusicbot2026?color=black&logo=github&logoColor=black&style=for-the-badge)
-![License](https://img.shields.io/github/license/khithlainhtet/thawzinmusicbot2026?color=black&logo=github&logoColor=black&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/khithlainhtet/thawzinmusicbot2026?color=blue&logo=github&logoColor=green&style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/khithlainhtet/MYANMARMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/khithlainhtet/MYANMARMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge)
+![License](https://img.shields.io/github/license/khithlainhtet/MYANMARMUSIC?color=black&logo=github&logoColor=black&style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/khithlainhtet/MYANMARMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge)
 
 </div>
 
