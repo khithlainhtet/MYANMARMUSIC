@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: shruti-music
+    name: myanmar-music
     env: python
     region: oregon
     plan: free
@@ -12,9 +12,9 @@ services:
 
     envVars:
       API_ID: 
-        value: 29448785
+        value: 30566096
       API_HASH: 
-        value: 599574f6aff0a09ebb76305b58e7e9c2
+        value: 571416932b7adcd28b5e69b2cd3d34b7
       API_KEY:
         sync: false
       BOT_TOKEN:
@@ -24,9 +24,9 @@ services:
       OWNER_ID:
         value: 8315544720
       OWNER_USERNAME:
-        value: WTF_WhyMeeh
+        value: HANTHAR999
       BOT_USERNAME:
-        value: ShrutixMusicBot
+        value: HANTHAR1999_Bot
       UPSTREAM_REPO:
         value: https://github.com/khithlainhtet/MYANMARMUSIC
       STRING_SESSION:
@@ -38,15 +38,15 @@ services:
       HEROKU_APP_NAME:
         sync: false
       LOG_GROUP_ID:
-        value: -1002321189618
+        value: -1003522647387
       SUPPORT_GROUP:
         value:https://t.me/myanmarbot_musicupport
       SUPPORT_CHANNEL:
         value:https://t.me/myanmarbot_music
       INSTAGRAM:
-        value: https://instagram.com/yaduwanshi_nand
+        value: https://t.me/HANTHAR_1999
       YOUTUBE:
-        value: https://youtube.com/@NandEditz
+        value: https://t.me/HANTHAR_27
       GITHUB:
         value: https://github.com/khithlainhtet
       DONATE:
