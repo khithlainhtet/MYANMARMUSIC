@@ -1,23 +1,23 @@
-# 🎵 Shruti Music Bot 🎵
+# 🎵 MYANMAR Music Bot 🎵
 
 <p align="center">
   <img src="MYANMARMUSIC/assets/equalizer.svg" width="100%" height="500">
 </p>
 
 <div align="center">
-  <h1>🎵 Shruti Music Bot 🎵</h1>
+  <h1>🎵 MYANMAR Music Bot 🎵</h1>
   
   <p><b>A Powerful Telegram Music Bot to Play Songs in Voice Chats</b></p>
   
   <!-- Bold and vibrant badges with striking combinations -->
   <p>
-    <a href="https://t.me/ShrutiBots">
+    <a href="https://t.me/myanmar_music_Bot2027">
       <img src="https://img.shields.io/badge/Support%20Channel-FF0000?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000" alt="Support Channel">
     </a>
-    <a href="https://t.me/ShrutiBotSupport">
+    <a href="https://t.me/myanmar_music_Bot2027">
       <img src="https://img.shields.io/badge/Support%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000" alt="Support Group">
     </a>
-    <a href="https://t.me/WTF_WhyMeeh">
+    <a href="https://t.me/HANTHAR999">
       <img src="https://img.shields.io/badge/Owner-FFFF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=8A2BE2" alt="Owner">
     </a>
   </p>
@@ -53,7 +53,7 @@
   </a>
   
   ### 🎵 Simple Music Bot
-  <a href="https://github.com/khithlainhtet/ShrutixMusic">
+  <a href="https://github.com/khithlainhtet/MYANMARMUSIC">
     <img src="https://img.shields.io/badge/Simple%20Music%20Bot-FF4000?style=for-the-badge&logo=github&logoColor=white&labelColor=008000" width="280px" alt="Simple Music Bot">
   </a>
   
@@ -309,7 +309,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **For any questions or help, join our Support Group**
 
-<a href="https://t.me/ShrutiBotSupport">
+<a href="https://t.me/myanmar_music_Bot2027">
   <img src="https://img.shields.io/badge/Join%20Support%20Group-FF0040?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0080FF" alt="Support Group">
 </a>
 
@@ -319,6 +319,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**🎵 Enjoy Streaming Music with Shruti Bot! 🎵**
+**🎵 Enjoy Streaming Music with MYANMAR MUSIC BOT! 🎵**
 
 </div>

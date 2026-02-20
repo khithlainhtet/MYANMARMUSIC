@@ -213,4 +213,4 @@ async def taghelp(_, message: Message):
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots
+# ❤️ Love From MYANMAR MUSIC

@@ -156,4 +156,4 @@ async def stop_download(client, CallbackQuery: CallbackQuery, _):
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots
+# ❤️ Love From MYANMAR MUSIC

@@ -147,4 +147,4 @@ def adminsOnly(permission):
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots
+# ❤️ Love From MYANMAR MUSIC

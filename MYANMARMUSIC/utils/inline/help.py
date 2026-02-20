@@ -23,7 +23,7 @@ Not Allowed:
 - Re-uploading without credit or permission
 - Selling or using commercially
 
-Love From ShrutiBots
+Love From MYANMAR MUSIC
 Telegram:https://t.me/myanmarbot_music
 """
 

@@ -285,4 +285,4 @@ asyncio.create_task(auto_clean())
 # ===========================================
 
 
-# ❤️ Love From ShrutiBots
+# ❤️ Love From MYANMAR MUSIC

@@ -261,7 +261,7 @@ async def gen_thumb(videoid: str):
             title = "MYANMARMUSIC"
             duration = "Unknown"
             views = "Unknown Views"
-            channel = "ShrutiBots"
+            channel = "MYANMAR MUSIC"
         except:
             traceback.print_exc()
             return None
