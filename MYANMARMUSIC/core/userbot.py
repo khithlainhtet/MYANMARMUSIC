@@ -120,7 +120,7 @@ class Userbot(Client):
         try:
             owner_mention = config.OWNER_ID
             
-            message = f"@{bot_username} Successfully Started ✅=Feel free to contact me if you need anything. Telegram ⚙ @HANTHAR999 🇲🇲\n\nOwner: {owner_mention}"
+            message = f"@{bot_username} Successfully Started ✅ 🇲🇲 Feel free to contact me if you need anything. Telegram ⚙ @HANTHAR999 🇲🇲\n\nOwner: {owner_mention}"
             
             if assistants:
                 if 1 in assistants:

@@ -314,12 +314,12 @@ HELP_30 = """ 🔤 <b>FONT CONVERTER</b> ✨
 
 • /font [text] - Converts simple text to beautiful text by changing its font 🎨 """
 
-# 🤬 GALI COMMANDS
-HELP_31 = """ 🤬 <b>GALI COMMANDS</b> 😤
+# 💞 LOVE COMMANDS
+HELP_31 = """ 💞 <b>Love COMMANDS</b> 💞
 
 <b>Commands:</b>
-• /gali - Send random gali (works in DM) 💢
-• .gali - Alternative command format 🔥 """
+• /love - Send random Love (works in DM) 💢
+• .love - Alternative command format 🔥 """
 
 # 🤖 BOT LIST
 HELP_32 = """ 🤖 <b>BOT LIST</b> 🎯

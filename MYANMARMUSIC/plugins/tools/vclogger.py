@@ -42,7 +42,7 @@ RESTRICTIONS:
 
 Owner: khithlainhtet
 GitHub: @khithlainhtet
-Location: myanmar,pyin oo lwin, India
+Location: myanmar,pyin oo lwin, Myanmar
 
 LEGAL NOTICE:
 The original commit history proving authorship is maintained in the private repository.
