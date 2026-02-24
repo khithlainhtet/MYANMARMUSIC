@@ -27,7 +27,7 @@ INSTAGRAM = os.getenv("INSTAGRAM", "https://t.me/HANTHAR_1999")
 YOUTUBE = os.getenv("YOUTUBE", "https://t.me/HANTHAR_27")
 GITHUB = os.getenv("GITHUB", "https://t.me/burmamyanmar_2")
 DONATE = os.getenv("DONATE", "https://t.me/myanmarbot_music/71")
-PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/Privacy-Policy-05-01-30")
+PRIVACY_LINK = os.getenv("PRIVACY_LINK", "https://graph.org/%E1%80%80%E1%80%9A%E1%80%9B%E1%80%A1%E1%80%81%E1%80%80%E1%80%A1%E1%80%9C%E1%80%80-%E1%80%91%E1%80%94%E1%80%9E%E1%80%99%E1%80%99-%E1%80%99%E1%80%9D%E1%80%92-Privacy-Policy-02-24")
 
 DURATION_LIMIT_MIN = int(os.getenv("DURATION_LIMIT", 300))
 PLAYLIST_FETCH_LIMIT = int(os.getenv("PLAYLIST_FETCH_LIMIT", 25))
